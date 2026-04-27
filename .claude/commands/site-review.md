@@ -24,12 +24,12 @@ All outputs land in `./reviews/<domain>/<YYYY-MM-DD>/`.
 ## CONFIG — fill in once
 
 ```
-FIRM_NAME:        ""
-PRESENTER_NAME:   ""
-EMAIL:            ""
-PHONE:            ""
-WEBSITE:          ""
-LOGO_URL:         ""
+FIRM_NAME:        "Michael Rowsom"
+PRESENTER_NAME:   "Michael"
+EMAIL:            "mrowsom@gmail.com"
+PHONE:            "917-692-8666"
+WEBSITE:          "www.TBD.com"
+LOGO_URL:         "www.logo.tbd.com"
 PRIMARY_HEX:      "#0F172A"
 ACCENT_HEX:       "#FF3D00"
 SECONDARY_HEX:    "#22D3EE"
